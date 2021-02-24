@@ -8,6 +8,8 @@ public class HelloWorld {
 
 		System.out.println("Master");
 		System.out.println("Hotfix");
+		
+		System.out.println("local");
 	}
 
 }
